@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tinnt-page/precache-manifest.7002c3b827eac15d59801da27879ce52.js"
+  "/tinnt-page/precache-manifest.fe41085c05ef05f8c7c72d1a3e932d88.js"
 );
 
 self.addEventListener('message', (event) => {

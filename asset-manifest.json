@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/tinnt-page/static/css/main.25805e15.chunk.css",
-    "main.js": "/tinnt-page/static/js/main.c3883d70.chunk.js",
-    "main.js.map": "/tinnt-page/static/js/main.c3883d70.chunk.js.map",
+    "main.js": "/tinnt-page/static/js/main.2f321fb4.chunk.js",
+    "main.js.map": "/tinnt-page/static/js/main.2f321fb4.chunk.js.map",
     "runtime-main.js": "/tinnt-page/static/js/runtime-main.bfe1163b.js",
     "runtime-main.js.map": "/tinnt-page/static/js/runtime-main.bfe1163b.js.map",
     "static/js/2.1deee8e7.chunk.js": "/tinnt-page/static/js/2.1deee8e7.chunk.js",
     "static/js/2.1deee8e7.chunk.js.map": "/tinnt-page/static/js/2.1deee8e7.chunk.js.map",
     "index.html": "/tinnt-page/index.html",
-    "precache-manifest.7002c3b827eac15d59801da27879ce52.js": "/tinnt-page/precache-manifest.7002c3b827eac15d59801da27879ce52.js",
+    "precache-manifest.fe41085c05ef05f8c7c72d1a3e932d88.js": "/tinnt-page/precache-manifest.fe41085c05ef05f8c7c72d1a3e932d88.js",
     "service-worker.js": "/tinnt-page/service-worker.js",
     "static/css/main.25805e15.chunk.css.map": "/tinnt-page/static/css/main.25805e15.chunk.css.map",
     "static/media/index.css": "/tinnt-page/static/media/Montserrat-Regular.ee653992.ttf",
@@ -54,6 +54,6 @@
     "static/js/runtime-main.bfe1163b.js",
     "static/js/2.1deee8e7.chunk.js",
     "static/css/main.25805e15.chunk.css",
-    "static/js/main.c3883d70.chunk.js"
+    "static/js/main.2f321fb4.chunk.js"
   ]
 }

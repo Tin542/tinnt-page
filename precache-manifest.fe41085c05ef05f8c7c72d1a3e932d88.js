@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b1199612198ecf52279aaf5ae6e3642b",
+    "revision": "940138f2b68e89b4c52b0838ca220835",
     "url": "/tinnt-page/index.html"
   },
   {
-    "revision": "519814eabf5018cbc14f",
+    "revision": "c0e42c9cb8db902b5830",
     "url": "/tinnt-page/static/css/main.25805e15.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tinnt-page/static/js/2.1deee8e7.chunk.js"
   },
   {
-    "revision": "519814eabf5018cbc14f",
-    "url": "/tinnt-page/static/js/main.c3883d70.chunk.js"
+    "revision": "c0e42c9cb8db902b5830",
+    "url": "/tinnt-page/static/js/main.2f321fb4.chunk.js"
   },
   {
     "revision": "7dac9832774b8aef91f6",
