@@ -28,14 +28,6 @@ const greeting = {
 };
 
 const socialMediaLinks = [
-  /* Your Social Media Link */
-  // github: "https://github.com/ashutosh1919",
-  // linkedin: "https://www.linkedin.com/in/ashutosh-hathidara-88710b138/",
-  // gmail: "ashutoshhathidara98@gmail.com",
-  // gitlab: "https://gitlab.com/ashutoshhathidara98",
-  // facebook: "https://www.facebook.com/laymanbrother.19/",
-  // twitter: "https://twitter.com/ashutosh_1919",
-  // instagram: "https://www.instagram.com/layman_brother/"
 
   {
     name: "Github",
@@ -338,7 +330,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "",
+    "These are outstanding projects that I worked on while I was a student at FPT University. Although it was just class exercises, they helped me gain interesting knowledge. I hope more projects will be added here in the future =(^.^)=",
   avatar_image_path: "projects_image.svg",
 };
 
